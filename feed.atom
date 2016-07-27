@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Example Blog</title>
 <link href="https://mad-aran.github.io"></link>
-<updated>2016-07-27T01:31:43+00:00</updated>
+<updated>2016-07-27T08:37:39+00:00</updated>
 <id>urn:uuid:ae1a6185-7419-24fe-9173-bfa5584e826c</id>
 <entry>
 <author><name>John Doe</name>
@@ -12,7 +12,6 @@
 <id>urn:uuid:a045a67f-52ae-4e8a-e3f5-d1fd504ac2ce</id>
 <updated>2016-07-27T01:21:02+00:00</updated>
 <summary type="html"><![CDATA[<h1>段落１</h1>
-<p>ああああ</p>
 <h2>段落２</h2>
 <h3>段落３</h3>
 ]]></summary>
